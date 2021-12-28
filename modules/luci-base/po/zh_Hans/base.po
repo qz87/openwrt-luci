@@ -11486,3 +11486,6 @@ msgstr "« 后退"
 
 #~ msgid "IPv6 WAN Status"
 #~ msgstr "IPv6 WAN 状态"
+
+msgid "NAS"
+msgstr "网络存储"
